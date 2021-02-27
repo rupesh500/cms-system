@@ -1,0 +1,403 @@
+body.color-turquoise .color {
+	color: #00bcd4
+}
+body.color-turquoise .category-list>li a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .category-list>li:after {
+	color: #00bcd4
+}
+body.color-turquoise .marker-list>li:after {
+	color: #00bcd4
+}
+body.color-turquoise .marker-list-sm>li:hover a {
+	color: #00bcd4
+}
+body.color-turquoise .marker-list-sm>li:after {
+	color: #00bcd4
+}
+body.color-turquoise .marker-list-md-1>li:after,
+body.color-turquoise .marker-list-md>li:after {
+	color: #00bcd4
+}
+body.color-turquoise .number-list>li:before {
+	color: #00bcd4
+}
+body.color-turquoise .service-list li>span:hover,
+body.color-turquoise .service-list li a:hover {
+	background-color: #00bcd4
+}
+body.color-turquoise .service-list-1 li>span:hover,
+body.color-turquoise .service-list-1 li a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .service-list-1 li.active a {
+	color: #00bcd4
+}
+body.color-turquoise blockquote:before {
+	color: #00bcd4
+}
+body.color-turquoise blockquote .quote-author {
+	color: #00bcd4
+}
+body.color-turquoise .contact-info .icon {
+	color: #00bcd4
+}
+body.color-turquoise .text-icon:not(:hover) .icon-wrapper:not(:hover) span {
+	background: #00bcd4;
+	-webkit-box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .icon-wrapper:hover span,
+body.color-turquoise .text-icon:hover .icon-wrapper span {
+	-webkit-box-shadow: 0 0 0 20px rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 20px rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .icon-wrapper .icon-hover {
+	-webkit-box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .icon-wrapper:hover .icon-hover,
+body.color-turquoise .text-icon:hover .icon-wrapper .icon-hover {
+	-webkit-box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .icon-wrapper:hover span i.icon {
+	color: #00bcd4
+}
+body.color-turquoise .icon-wrapper.icon-light span i.icon {
+	color: #00bcd4
+}
+body.color-turquoise .icon-wrapper.icon-light .icon-hover {
+	background-color: #00bcd4;
+	-webkit-box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .icon-wrapper.icon-light:hover .icon-hover {
+	-webkit-box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .icon-wrapper.icon-light-border span i.icon {
+	color: #00bcd4
+}
+body.color-turquoise .icon-wrapper.icon-light-border .icon-hover {
+	background-color: #00bcd4;
+	-webkit-box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .icon-big .icon {
+	color: #00bcd4
+}
+body.color-turquoise .icon-big.dark .icon:hover {
+	color: #00bcd4
+}
+body.color-turquoise .phone-content-number i {
+	color: #00bcd4
+}
+body.color-turquoise .pagination>li>a:hover,
+body.color-turquoise .pagination>li>span:hover {
+	background-color: #00bcd4;
+	border-color: #00bcd4
+}
+body.color-turquoise .pagination>.active>a,
+body.color-turquoise .pagination>.active>a:hover,
+body.color-turquoise .pagination>.active>span,
+body.color-turquoise .pagination>.active>span:hover {
+	background-color: #00bcd4;
+	border-color: #00bcd4
+}
+body.color-turquoise .battery .battery_item {
+	background-color: #00bcd4
+}
+body.color-turquoise .bootstrap-datetimepicker-widget .btn[data-action].btn-primary {
+	background-color: #00bcd4!important
+}
+body.color-turquoise .btn:not(.btn-white):not(.btn-invert):not(:hover) {
+	background-color: #00bcd4
+}
+body.color-turquoise .btn.focus,
+body.color-turquoise .btn:focus {
+	background-color: #00bcd4
+}
+body.color-turquoise .btn-invert.active,
+body.color-turquoise .btn-invert:active,
+body.color-turquoise .btn-invert:hover {
+	background-color: #00bcd4
+}
+body.color-turquoise .social-links.rounded ul li a {
+	color: #00bcd4
+}
+body.color-turquoise .tag:hover {
+	background-color: #00bcd4
+}
+body.color-turquoise .tags-list li a:hover {
+	background-color: #00bcd4
+}
+body.color-turquoise .calendar__footer a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .calendar .selected,
+body.color-turquoise .calendar .selected:hover {
+	background-color: #00bcd4
+}
+body.color-turquoise .block.bg-dark .btn-white:hover {
+	background: #00bcd4
+}
+body.color-turquoise header .phone .number {
+	background-color: #00bcd4
+}
+@media (min-width:992px) {
+	body.color-turquoise .nav .open>a,
+	body.color-turquoise .nav .open>a:focus,
+	body.color-turquoise .nav .open>a:hover {
+		color: #00bcd4
+	}
+	body.color-turquoise .navbar-nav>li>a:focus,
+	body.color-turquoise .navbar-nav>li>a:hover {
+		color: #00bcd4
+	}
+	body.color-turquoise .navbar-nav>li>a.shadow-effect:hover {
+		-webkit-text-shadow: 0 0px 0px #00bcd4;
+		-moz-text-shadow: 0 0px 0px #00bcd4;
+		-ms-text-shadow: 0 0px 0px #00bcd4;
+		-o-text-shadow: 0 0px 0px #00bcd4;
+		text-shadow: 0 0px 0px #00bcd4
+	}
+	body.color-turquoise .navbar-nav li.active>a {
+		color: #00bcd4
+	}
+	body.color-turquoise .navbar-nav .dropdown .dropdown-menu {
+		border-top: 4px solid #00bcd4
+	}
+	body.color-turquoise .navbar-nav .dropdown .dropdown-menu li>a:focus,
+	body.color-turquoise .navbar-nav .dropdown .dropdown-menu li>a:hover {
+		color: #00bcd4
+	}
+}
+@media (max-width:991px) {
+	body.color-turquoise .header-info-mobile p>[class*=icon-] {
+		color: #00bcd4
+	}
+	body.color-turquoise .header-info-toggle [class*=icon-]:hover {
+		color: #00bcd4
+	}
+}
+@media (max-width:991px) {
+	body.color-turquoise #navbar-height-col, body.color-turquoise .slidemenu-close {
+		background: #00bcd4
+	}
+}
+body.color-turquoise .page-footer ul.footer-menu li a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .page-footer .footer-links a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .page-footer .footer-phone .number {
+	color: #00bcd4
+}
+body.color-turquoise .back-to-top a {
+	color: #00bcd4
+}
+body.color-turquoise #mainSlider .slide-content h3 span {
+	color: #00bcd4
+}
+body.color-turquoise #mainSlider .slide-content h4 span {
+	color: #00bcd4
+}
+body.color-turquoise #mainSlider .slide-content .btn.active,
+body.color-turquoise #mainSlider .slide-content .btn.focus,
+body.color-turquoise #mainSlider .slide-content .btn:active,
+body.color-turquoise #mainSlider .slide-content .btn:focus,
+body.color-turquoise #mainSlider .slide-content .btn:hover {
+	color: #00bcd4
+}
+body.color-turquoise .breadcrumbs .breadcrumb a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .category-block .image_hover .btn.active,
+body.color-turquoise .category-block .image_hover .btn.focus,
+body.color-turquoise .category-block .image_hover .btn:active,
+body.color-turquoise .category-block .image_hover .btn:focus,
+body.color-turquoise .category-block .image_hover .btn:hover {
+	color: #00bcd4
+}
+body.color-turquoise .category-block .image_hover.light .btn:not(:hover) {
+	background: #00bcd4
+}
+body.color-turquoise .category-block .image_hover.color, body.color-turquoise .category-block.color {
+	background: #00bcd4
+}
+body.color-turquoise .category-block .image_hover.color .btn.active,
+body.color-turquoise .category-block .image_hover.color .btn.focus,
+body.color-turquoise .category-block .image_hover.color .btn:active,
+body.color-turquoise .category-block .image_hover.color .btn:focus,
+body.color-turquoise .category-block .image_hover.color .btn:hover {
+	color: #00bcd4
+}
+body.color-turquoise .category-block .caption .name {
+	color: #00bcd4
+}
+body.color-turquoise .price-box-icon i {
+	color: #00bcd4
+}
+body.color-turquoise .price-box-price span {
+	color: #00bcd4
+}
+body.color-turquoise .text-icon:hover .icon-wrapper span i.icon {
+	color: #00bcd4
+}
+body.color-turquoise .text-icon-squared .icon-big .icon {
+	color: #00bcd4
+}
+body.color-turquoise .text-icon-squared .read-more {
+	color: #00bcd4
+}
+body.color-turquoise .text-icon-hor .icon-wrapper span i.icon {
+	color: #00bcd4
+}
+body.color-turquoise .text-icon-hor .icon-wrapper .icon-hover {
+	background-color: #00bcd4;
+	-webkit-box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .text-icon-hor:hover .icon-wrapper .icon-hover {
+	-webkit-box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25);
+	box-shadow: 0 0 0 8px rgba(0, 188, 212, 0.25)
+}
+body.color-turquoise .text-icon-hor .price {
+	color: #00bcd4
+}
+body.color-turquoise .testimonials-item .inside .username {
+	color: #00bcd4
+}
+body.color-turquoise .testimonials-item .inside:before {
+	color: #00bcd4
+}
+body.color-turquoise .testimonials-single .username {
+	color: #00bcd4
+}
+body.color-turquoise .faq-item .panel-heading .panel-title>a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .faq-item .panel-heading a>span.caret-toggle {
+	background-color: #00bcd4
+}
+body.color-turquoise .blog-post .post-image .post-link:hover {
+	color: #00bcd4
+}
+body.color-turquoise .blog-post .post-title a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .blog-post .post-teaser p a:hover {
+	color: #00bcd4
+}
+body.color-turquoise .comments-block .comment .userpic {
+	background-color: #00bcd4
+}
+body.color-turquoise .comments-block .comment .text a.reply:hover {
+	background-color: #00bcd4
+}
+body.color-turquoise .mfp-close-btn-in .mfp-close {
+	color: #00bcd4
+}
+body.color-turquoise .grey-box-icon {
+	color: #00bcd4
+}
+body.color-turquoise .grey-box:hover .grey-box-title {
+	color: #00bcd4
+}
+body.color-turquoise .row-icon-icon i {
+	background-color: #00bcd4
+}
+body.color-turquoise .row-icon:hover .row-icon-text {
+	color: #00bcd4
+}
+body.color-turquoise .contact-box [class*=icon-] {
+	color: #00bcd4
+}
+body.color-turquoise .box-number-icon span {
+	background: #00bcd4
+}
+body.color-turquoise .box-number:hover .box-number-text {
+	color: #00bcd4
+}
+body.color-turquoise .row-number-icon span {
+	background-color: #00bcd4
+}
+@media (min-width:768px) {
+	body.color-turquoise .hexagon-box {
+		border-left: solid 2px #00bcd4;
+		border-right: solid 2px #00bcd4
+	}
+	body.color-turquoise .hexagon-box:before {
+		border-top: solid 2px #00bcd4;
+		border-right: solid 2px #00bcd4
+	}
+	body.color-turquoise .hexagon-box:after {
+		border-bottom: solid 2px #00bcd4;
+		border-left: solid 2px #00bcd4
+	}
+}
+body.color-turquoise .hexagon-icon i {
+	border: 4px solid #00bcd4
+}
+@media (min-width:768px) {
+	body.color-turquoise .hexagon-icon:hover i {
+		background: #00bcd4
+	}
+}
+@media (max-width:767px) {
+	body.color-turquoise .hexagon-icon:after {
+		background-color: #00bcd4
+	}
+}
+body.color-turquoise .column-filters .side-block>h3:before {
+	background-color: #00bcd4
+}
+body.color-turquoise .noUi-horizontal .noUi-handle {
+	background: #00bcd4
+}
+body.color-turquoise .noUi-connect {
+	background: #00bcd4
+}
+body.color-turquoise .rating i {
+	color: #00bcd4
+}
+body.color-turquoise .simple-pagination a.active {
+	color: #00bcd4
+}
+body.color-turquoise .header-cart .badge {
+	background-color: #00bcd4
+}
+body.color-turquoise .header-cart.opened a.icon,
+body.color-turquoise .header-cart:hover a.icon {
+	color: #00bcd4
+}
+body.color-turquoise .header-cart-dropdown {
+	border-top: 4px solid #00bcd4
+}
+body.color-turquoise .nav-tabs>li.active>a,
+body.color-turquoise .nav-tabs>li>a:hover {
+	color: #00bcd4!important
+}
+body.color-turquoise .nav-tabs>li>a:after {
+	background: #00bcd4
+}
+body.color-turquoise .tab-nav>li>a:after {
+	background: #00bcd4 none repeat scroll 0% 0%
+}
+body.color-turquoise .nav-pills>li.active>a,
+body.color-turquoise .nav-pills>li.active>a:focus,
+body.color-turquoise .nav-pills>li.active>a:hover {
+	background: #00bcd4;
+	border-color: #00bcd4
+}
+body.color-turquoise .slick-next:hover:before,
+body.color-turquoise .slick-prev:hover:before {
+	color: #00bcd4
+}
+body.color-turquoise .slick-dots li.slick-active button,
+body.color-turquoise .slick-dots li.slick-active button:hover {
+	background: #00bcd4
+}

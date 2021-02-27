@@ -1,0 +1,403 @@
+body.color-orange .color {
+	color: #f69323
+}
+body.color-orange .category-list>li a:hover {
+	color: #f69323
+}
+body.color-orange .category-list>li:after {
+	color: #f69323
+}
+body.color-orange .marker-list>li:after {
+	color: #f69323
+}
+body.color-orange .marker-list-sm>li:hover a {
+	color: #f69323
+}
+body.color-orange .marker-list-sm>li:after {
+	color: #f69323
+}
+body.color-orange .marker-list-md-1>li:after,
+body.color-orange .marker-list-md>li:after {
+	color: #f69323
+}
+body.color-orange .number-list>li:before {
+	color: #f69323
+}
+body.color-orange .service-list li>span:hover,
+body.color-orange .service-list li a:hover {
+	background-color: #f69323
+}
+body.color-orange .service-list-1 li>span:hover,
+body.color-orange .service-list-1 li a:hover {
+	color: #f69323
+}
+body.color-orange .service-list-1 li.active a {
+	color: #f69323
+}
+body.color-orange blockquote:before {
+	color: #f69323
+}
+body.color-orange blockquote .quote-author {
+	color: #f69323
+}
+body.color-orange .contact-info .icon {
+	color: #f69323
+}
+body.color-orange .text-icon:not(:hover) .icon-wrapper:not(:hover) span {
+	background: #f69323;
+	-webkit-box-shadow: 0 0 0 8px rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 8px rgba(246, 147, 35, 0.25)
+}
+body.color-orange .icon-wrapper:hover span,
+body.color-orange .text-icon:hover .icon-wrapper span {
+	-webkit-box-shadow: 0 0 0 20px rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 20px rgba(246, 147, 35, 0.25)
+}
+body.color-orange .icon-wrapper .icon-hover {
+	-webkit-box-shadow: 0 0 0 0 rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 0 rgba(246, 147, 35, 0.25)
+}
+body.color-orange .icon-wrapper:hover .icon-hover,
+body.color-orange .text-icon:hover .icon-wrapper .icon-hover {
+	-webkit-box-shadow: 0 0 0 8px rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 8px rgba(246, 147, 35, 0.25)
+}
+body.color-orange .icon-wrapper:hover span i.icon {
+	color: #f69323
+}
+body.color-orange .icon-wrapper.icon-light span i.icon {
+	color: #f69323
+}
+body.color-orange .icon-wrapper.icon-light .icon-hover {
+	background-color: #f69323;
+	-webkit-box-shadow: 0 0 0 0 rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 0 rgba(246, 147, 35, 0.25)
+}
+body.color-orange .icon-wrapper.icon-light:hover .icon-hover {
+	-webkit-box-shadow: 0 0 0 8px rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 8px rgba(246, 147, 35, 0.25)
+}
+body.color-orange .icon-wrapper.icon-light-border span i.icon {
+	color: #f69323
+}
+body.color-orange .icon-wrapper.icon-light-border .icon-hover {
+	background-color: #f69323;
+	-webkit-box-shadow: 0 0 0 0 rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 0 rgba(246, 147, 35, 0.25)
+}
+body.color-orange .icon-big .icon {
+	color: #f69323
+}
+body.color-orange .icon-big.dark .icon:hover {
+	color: #f69323
+}
+body.color-orange .phone-content-number i {
+	color: #f69323
+}
+body.color-orange .pagination>li>a:hover,
+body.color-orange .pagination>li>span:hover {
+	background-color: #f69323;
+	border-color: #f69323
+}
+body.color-orange .pagination>.active>a,
+body.color-orange .pagination>.active>a:hover,
+body.color-orange .pagination>.active>span,
+body.color-orange .pagination>.active>span:hover {
+	background-color: #f69323;
+	border-color: #f69323
+}
+body.color-orange .battery .battery_item {
+	background-color: #f69323
+}
+body.color-orange .bootstrap-datetimepicker-widget .btn[data-action].btn-primary {
+	background-color: #f69323!important
+}
+body.color-orange .btn:not(.btn-white):not(.btn-invert):not(:hover) {
+	background-color: #f69323
+}
+body.color-orange .btn.focus,
+body.color-orange .btn:focus {
+	background-color: #f69323
+}
+body.color-orange .btn-invert.active,
+body.color-orange .btn-invert:active,
+body.color-orange .btn-invert:hover {
+	background-color: #f69323
+}
+body.color-orange .social-links.rounded ul li a {
+	color: #f69323
+}
+body.color-orange .tag:hover {
+	background-color: #f69323
+}
+body.color-orange .tags-list li a:hover {
+	background-color: #f69323
+}
+body.color-orange .calendar__footer a:hover {
+	color: #f69323
+}
+body.color-orange .calendar .selected,
+body.color-orange .calendar .selected:hover {
+	background-color: #f69323
+}
+body.color-orange .block.bg-dark .btn-white:hover {
+	background: #f69323
+}
+body.color-orange header .phone .number {
+	background-color: #f69323
+}
+@media (min-width:992px) {
+	body.color-orange .nav .open>a,
+	body.color-orange .nav .open>a:focus,
+	body.color-orange .nav .open>a:hover {
+		color: #f69323
+	}
+	body.color-orange .navbar-nav>li>a:focus,
+	body.color-orange .navbar-nav>li>a:hover {
+		color: #f69323
+	}
+	body.color-orange .navbar-nav>li>a.shadow-effect:hover {
+		-webkit-text-shadow: 0 0px 0px #f69323;
+		-moz-text-shadow: 0 0px 0px #f69323;
+		-ms-text-shadow: 0 0px 0px #f69323;
+		-o-text-shadow: 0 0px 0px #f69323;
+		text-shadow: 0 0px 0px #f69323
+	}
+	body.color-orange .navbar-nav li.active>a {
+		color: #f69323
+	}
+	body.color-orange .navbar-nav .dropdown .dropdown-menu {
+		border-top: 4px solid #f69323
+	}
+	body.color-orange .navbar-nav .dropdown .dropdown-menu li>a:focus,
+	body.color-orange .navbar-nav .dropdown .dropdown-menu li>a:hover {
+		color: #f69323
+	}
+}
+@media (max-width:991px) {
+	body.color-orange .header-info-mobile p>[class*=icon-] {
+		color: #f69323
+	}
+	body.color-orange .header-info-toggle [class*=icon-]:hover {
+		color: #f69323
+	}
+}
+@media (max-width:991px) {
+	body.color-orange #navbar-height-col, body.color-orange .slidemenu-close {
+		background: #f69323
+	}
+}
+body.color-orange .page-footer ul.footer-menu li a:hover {
+	color: #f69323
+}
+body.color-orange .page-footer .footer-links a:hover {
+	color: #f69323
+}
+body.color-orange .page-footer .footer-phone .number {
+	color: #f69323
+}
+body.color-orange .back-to-top a {
+	color: #f69323
+}
+body.color-orange #mainSlider .slide-content h3 span {
+	color: #f69323
+}
+body.color-orange #mainSlider .slide-content h4 span {
+	color: #f69323
+}
+body.color-orange #mainSlider .slide-content .btn.active,
+body.color-orange #mainSlider .slide-content .btn.focus,
+body.color-orange #mainSlider .slide-content .btn:active,
+body.color-orange #mainSlider .slide-content .btn:focus,
+body.color-orange #mainSlider .slide-content .btn:hover {
+	color: #f69323
+}
+body.color-orange .breadcrumbs .breadcrumb a:hover {
+	color: #f69323
+}
+body.color-orange .category-block .image_hover .btn.active,
+body.color-orange .category-block .image_hover .btn.focus,
+body.color-orange .category-block .image_hover .btn:active,
+body.color-orange .category-block .image_hover .btn:focus,
+body.color-orange .category-block .image_hover .btn:hover {
+	color: #f69323
+}
+body.color-orange .category-block .image_hover.light .btn:not(:hover) {
+	background: #f69323
+}
+body.color-orange .category-block .image_hover.color, body.color-orange .category-block.color {
+	background: #f69323
+}
+body.color-orange .category-block .image_hover.color .btn.active,
+body.color-orange .category-block .image_hover.color .btn.focus,
+body.color-orange .category-block .image_hover.color .btn:active,
+body.color-orange .category-block .image_hover.color .btn:focus,
+body.color-orange .category-block .image_hover.color .btn:hover {
+	color: #f69323
+}
+body.color-orange .category-block .caption .name {
+	color: #f69323
+}
+body.color-orange .price-box-icon i {
+	color: #f69323
+}
+body.color-orange .price-box-price span {
+	color: #f69323
+}
+body.color-orange .text-icon:hover .icon-wrapper span i.icon {
+	color: #f69323
+}
+body.color-orange .text-icon-squared .icon-big .icon {
+	color: #f69323
+}
+body.color-orange .text-icon-squared .read-more {
+	color: #f69323
+}
+body.color-orange .text-icon-hor .icon-wrapper span i.icon {
+	color: #f69323
+}
+body.color-orange .text-icon-hor .icon-wrapper .icon-hover {
+	background-color: #f69323;
+	-webkit-box-shadow: 0 0 0 0 rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 0 rgba(246, 147, 35, 0.25)
+}
+body.color-orange .text-icon-hor:hover .icon-wrapper .icon-hover {
+	-webkit-box-shadow: 0 0 0 8px rgba(246, 147, 35, 0.25);
+	box-shadow: 0 0 0 8px rgba(246, 147, 35, 0.25)
+}
+body.color-orange .text-icon-hor .price {
+	color: #f69323
+}
+body.color-orange .testimonials-item .inside .username {
+	color: #f69323
+}
+body.color-orange .testimonials-item .inside:before {
+	color: #f69323
+}
+body.color-orange .testimonials-single .username {
+	color: #f69323
+}
+body.color-orange .faq-item .panel-heading .panel-title>a:hover {
+	color: #f69323
+}
+body.color-orange .faq-item .panel-heading a>span.caret-toggle {
+	background-color: #f69323
+}
+body.color-orange .blog-post .post-image .post-link:hover {
+	color: #f69323
+}
+body.color-orange .blog-post .post-title a:hover {
+	color: #f69323
+}
+body.color-orange .blog-post .post-teaser p a:hover {
+	color: #f69323
+}
+body.color-orange .comments-block .comment .userpic {
+	background-color: #f69323
+}
+body.color-orange .comments-block .comment .text a.reply:hover {
+	background-color: #f69323
+}
+body.color-orange .mfp-close-btn-in .mfp-close {
+	color: #f69323
+}
+body.color-orange .grey-box-icon {
+	color: #f69323
+}
+body.color-orange .grey-box:hover .grey-box-title {
+	color: #f69323
+}
+body.color-orange .row-icon-icon i {
+	background-color: #f69323
+}
+body.color-orange .row-icon:hover .row-icon-text {
+	color: #f69323
+}
+body.color-orange .contact-box [class*=icon-] {
+	color: #f69323
+}
+body.color-orange .box-number-icon span {
+	background: #f69323
+}
+body.color-orange .box-number:hover .box-number-text {
+	color: #f69323
+}
+body.color-orange .row-number-icon span {
+	background-color: #f69323
+}
+@media (min-width:768px) {
+	body.color-orange .hexagon-box {
+		border-left: solid 2px #f69323;
+		border-right: solid 2px #f69323
+	}
+	body.color-orange .hexagon-box:before {
+		border-top: solid 2px #f69323;
+		border-right: solid 2px #f69323
+	}
+	body.color-orange .hexagon-box:after {
+		border-bottom: solid 2px #f69323;
+		border-left: solid 2px #f69323
+	}
+}
+body.color-orange .hexagon-icon i {
+	border: 4px solid #f69323
+}
+@media (min-width:768px) {
+	body.color-orange .hexagon-icon:hover i {
+		background: #f69323
+	}
+}
+@media (max-width:767px) {
+	body.color-orange .hexagon-icon:after {
+		background-color: #f69323
+	}
+}
+body.color-orange .column-filters .side-block>h3:before {
+	background-color: #f69323
+}
+body.color-orange .noUi-horizontal .noUi-handle {
+	background: #f69323
+}
+body.color-orange .noUi-connect {
+	background: #f69323
+}
+body.color-orange .rating i {
+	color: #f69323
+}
+body.color-orange .simple-pagination a.active {
+	color: #f69323
+}
+body.color-orange .header-cart .badge {
+	background-color: #f69323
+}
+body.color-orange .header-cart.opened a.icon,
+body.color-orange .header-cart:hover a.icon {
+	color: #f69323
+}
+body.color-orange .header-cart-dropdown {
+	border-top: 4px solid #f69323
+}
+body.color-orange .nav-tabs>li.active>a,
+body.color-orange .nav-tabs>li>a:hover {
+	color: #f69323!important
+}
+body.color-orange .nav-tabs>li>a:after {
+	background: #f69323
+}
+body.color-orange .tab-nav>li>a:after {
+	background: #f69323 none repeat scroll 0% 0%
+}
+body.color-orange .nav-pills>li.active>a,
+body.color-orange .nav-pills>li.active>a:focus,
+body.color-orange .nav-pills>li.active>a:hover {
+	background: #f69323;
+	border-color: #f69323
+}
+body.color-orange .slick-next:hover:before,
+body.color-orange .slick-prev:hover:before {
+	color: #f69323
+}
+body.color-orange .slick-dots li.slick-active button,
+body.color-orange .slick-dots li.slick-active button:hover {
+	background: #f69323
+}

@@ -1,0 +1,403 @@
+body.color-light-blue .color {
+  color: #119ee6;
+}
+body.color-light-blue .category-list > li a:hover {
+  color: #119ee6;
+}
+body.color-light-blue .category-list > li:after {
+  color: #119ee6;
+}
+body.color-light-blue .marker-list > li:after {
+  color: #119ee6;
+}
+body.color-light-blue .marker-list-sm > li:hover a {
+  color: #119ee6;
+}
+body.color-light-blue .marker-list-sm > li:after {
+  color: #119ee6;
+}
+body.color-light-blue .marker-list-md > li:after,
+body.color-light-blue .marker-list-md-1 > li:after {
+  color: #119ee6;
+}
+body.color-light-blue .number-list > li:before {
+  color: #119ee6;
+}
+body.color-light-blue .service-list li a:hover,
+body.color-light-blue .service-list li > span:hover {
+  background-color: #119ee6;
+}
+body.color-light-blue .service-list-1 li a:hover,
+body.color-light-blue .service-list-1 li > span:hover {
+  color: #119ee6;
+}
+body.color-light-blue .service-list-1 li.active a {
+  color: #119ee6;
+}
+body.color-light-blue blockquote:before {
+  color: #119ee6;
+}
+body.color-light-blue blockquote .quote-author {
+  color: #119ee6;
+}
+body.color-light-blue .contact-info .icon {
+  color: #119ee6;
+}
+body.color-light-blue .text-icon:not(:hover) .icon-wrapper:not(:hover) span {
+  background: #119ee6;
+  -webkit-box-shadow: 0 0 0 8px rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 8px rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .icon-wrapper:hover span,
+body.color-light-blue .text-icon:hover .icon-wrapper span {
+  -webkit-box-shadow: 0 0 0 20px rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 20px rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .icon-wrapper .icon-hover {
+  -webkit-box-shadow: 0 0 0 0 rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 0 rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .icon-wrapper:hover .icon-hover,
+body.color-light-blue .text-icon:hover .icon-wrapper .icon-hover {
+  -webkit-box-shadow: 0 0 0 8px rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 8px rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .icon-wrapper:hover span i.icon {
+  color: #119ee6;
+}
+body.color-light-blue .icon-wrapper.icon-light span i.icon {
+  color: #119ee6;
+}
+body.color-light-blue .icon-wrapper.icon-light .icon-hover {
+  background-color: #119ee6;
+  -webkit-box-shadow: 0 0 0 0 rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 0 rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .icon-wrapper.icon-light:hover .icon-hover {
+  -webkit-box-shadow: 0 0 0 8px rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 8px rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .icon-wrapper.icon-light-border span i.icon {
+  color: #119ee6;
+}
+body.color-light-blue .icon-wrapper.icon-light-border .icon-hover {
+  background-color: #119ee6;
+  -webkit-box-shadow: 0 0 0 0 rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 0 rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .icon-big .icon {
+  color: #119ee6;
+}
+body.color-light-blue .icon-big.dark .icon:hover {
+  color: #119ee6;
+}
+body.color-light-blue .phone-content-number i {
+  color: #119ee6;
+}
+body.color-light-blue .pagination > li > a:hover,
+body.color-light-blue .pagination > li > span:hover {
+  background-color: #119ee6;
+  border-color: #119ee6;
+}
+body.color-light-blue .pagination > .active > a,
+body.color-light-blue .pagination > .active > span,
+body.color-light-blue .pagination > .active > a:hover,
+body.color-light-blue .pagination > .active > span:hover {
+  background-color: #119ee6;
+  border-color: #119ee6;
+}
+body.color-light-blue .battery .battery_item {
+  background-color: #119ee6;
+}
+body.color-light-blue .bootstrap-datetimepicker-widget .btn[data-action].btn-primary {
+  background-color: #119ee6 !important;
+}
+body.color-light-blue .btn:not(.btn-white):not(.btn-invert):not(:hover) {
+  background-color: #119ee6;
+}
+body.color-light-blue .btn.focus,
+body.color-light-blue .btn:focus {
+  background-color: #119ee6;
+}
+body.color-light-blue .btn-invert:hover,
+body.color-light-blue .btn-invert.active,
+body.color-light-blue .btn-invert:active {
+  background-color: #119ee6;
+}
+body.color-light-blue .social-links.rounded ul li a {
+  color: #119ee6;
+}
+body.color-light-blue .tag:hover {
+  background-color: #119ee6;
+}
+body.color-light-blue .tags-list li a:hover {
+  background-color: #119ee6;
+}
+body.color-light-blue .calendar__footer a:hover {
+  color: #119ee6;
+}
+body.color-light-blue .calendar .selected,
+body.color-light-blue .calendar .selected:hover {
+  background-color: #119ee6;
+}
+body.color-light-blue .block.bg-dark .btn-white:hover {
+  background: #119ee6;
+}
+body.color-light-blue header .phone .number {
+  background-color: #119ee6;
+}
+@media (min-width: 992px) {
+  body.color-light-blue .nav .open > a,
+  body.color-light-blue .nav .open > a:focus,
+  body.color-light-blue .nav .open > a:hover {
+    color: #119ee6;
+  }
+  body.color-light-blue .navbar-nav > li > a:hover,
+  body.color-light-blue .navbar-nav > li > a:focus {
+    color: #119ee6;
+  }
+  body.color-light-blue .navbar-nav > li > a.shadow-effect:hover {
+    -webkit-text-shadow: 0 0px 0px #119ee6;
+    -moz-text-shadow: 0 0px 0px #119ee6;
+    -ms-text-shadow: 0 0px 0px #119ee6;
+    -o-text-shadow: 0 0px 0px #119ee6;
+    text-shadow: 0 0px 0px #119ee6;
+  }
+  body.color-light-blue .navbar-nav li.active > a {
+    color: #119ee6;
+  }
+  body.color-light-blue .navbar-nav .dropdown .dropdown-menu {
+    border-top: 4px solid #119ee6;
+  }
+  body.color-light-blue .navbar-nav .dropdown .dropdown-menu li > a:hover,
+  body.color-light-blue .navbar-nav .dropdown .dropdown-menu li > a:focus {
+    color: #119ee6;
+  }
+}
+@media (max-width: 991px) {
+  body.color-light-blue .header-info-mobile p > [class*='icon-'] {
+    color: #119ee6;
+  }
+  body.color-light-blue .header-info-toggle [class*='icon-']:hover {
+    color: #119ee6;
+  }
+}
+@media (max-width: 991px) {
+  body.color-light-blue #navbar-height-col, body.color-light-blue .slidemenu-close {
+    background: #119ee6;
+  }
+}
+body.color-light-blue .page-footer ul.footer-menu li a:hover {
+  color: #119ee6;
+}
+body.color-light-blue .page-footer .footer-links a:hover {
+  color: #119ee6;
+}
+body.color-light-blue .page-footer .footer-phone .number {
+  color: #119ee6;
+}
+body.color-light-blue .back-to-top a {
+  color: #119ee6;
+}
+body.color-light-blue #mainSlider .slide-content h3 span {
+  color: #119ee6;
+}
+body.color-light-blue #mainSlider .slide-content h4 span {
+  color: #119ee6;
+}
+body.color-light-blue #mainSlider .slide-content .btn:hover,
+body.color-light-blue #mainSlider .slide-content .btn.active,
+body.color-light-blue #mainSlider .slide-content .btn:active,
+body.color-light-blue #mainSlider .slide-content .btn.focus,
+body.color-light-blue #mainSlider .slide-content .btn:focus {
+  color: #119ee6;
+}
+body.color-light-blue .breadcrumbs .breadcrumb a:hover {
+  color: #119ee6;
+}
+body.color-light-blue .category-block .image_hover .btn:hover,
+body.color-light-blue .category-block .image_hover .btn.active,
+body.color-light-blue .category-block .image_hover .btn:active,
+body.color-light-blue .category-block .image_hover .btn.focus,
+body.color-light-blue .category-block .image_hover .btn:focus {
+  color: #119ee6;
+}
+body.color-light-blue .category-block .image_hover.light .btn:not(:hover) {
+  background: #119ee6;
+}
+body.color-light-blue .category-block .image_hover.color, body.color-light-blue .category-block.color {
+  background: #119ee6;
+}
+body.color-light-blue .category-block .image_hover.color .btn:hover,
+body.color-light-blue .category-block .image_hover.color .btn.active,
+body.color-light-blue .category-block .image_hover.color .btn:active,
+body.color-light-blue .category-block .image_hover.color .btn.focus,
+body.color-light-blue .category-block .image_hover.color .btn:focus {
+  color: #119ee6;
+}
+body.color-light-blue .category-block .caption .name {
+  color: #119ee6;
+}
+body.color-light-blue .price-box-icon i {
+  color: #119ee6;
+}
+body.color-light-blue .price-box-price span {
+  color: #119ee6;
+}
+body.color-light-blue .text-icon:hover .icon-wrapper span i.icon {
+  color: #119ee6;
+}
+body.color-light-blue .text-icon-squared .icon-big .icon {
+  color: #119ee6;
+}
+body.color-light-blue .text-icon-squared .read-more {
+  color: #119ee6;
+}
+body.color-light-blue .text-icon-hor .icon-wrapper span i.icon {
+  color: #119ee6;
+}
+body.color-light-blue .text-icon-hor .icon-wrapper .icon-hover {
+  background-color: #119ee6;
+  -webkit-box-shadow: 0 0 0 0 rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 0 rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .text-icon-hor:hover .icon-wrapper .icon-hover {
+  -webkit-box-shadow: 0 0 0 8px rgba(17, 158, 230, 0.25);
+  box-shadow: 0 0 0 8px rgba(17, 158, 230, 0.25);
+}
+body.color-light-blue .text-icon-hor .price {
+  color: #119ee6;
+}
+body.color-light-blue .testimonials-item .inside .username {
+  color: #119ee6;
+}
+body.color-light-blue .testimonials-item .inside:before {
+  color: #119ee6;
+}
+body.color-light-blue .testimonials-single .username {
+  color: #119ee6;
+}
+body.color-light-blue .faq-item .panel-heading .panel-title > a:hover {
+  color: #119ee6;
+}
+body.color-light-blue .faq-item .panel-heading a > span.caret-toggle {
+  background-color: #119ee6;
+}
+body.color-light-blue .blog-post .post-image .post-link:hover {
+  color: #119ee6;
+}
+body.color-light-blue .blog-post .post-title a:hover {
+  color: #119ee6;
+}
+body.color-light-blue .blog-post .post-teaser p a:hover {
+  color: #119ee6;
+}
+body.color-light-blue .comments-block .comment .userpic {
+  background-color: #119ee6;
+}
+body.color-light-blue .comments-block .comment .text a.reply:hover {
+  background-color: #119ee6;
+}
+body.color-light-blue .mfp-close-btn-in .mfp-close {
+  color: #119ee6;
+}
+body.color-light-blue .grey-box-icon {
+  color: #119ee6;
+}
+body.color-light-blue .grey-box:hover .grey-box-title {
+  color: #119ee6;
+}
+body.color-light-blue .row-icon-icon i {
+  background-color: #119ee6;
+}
+body.color-light-blue .row-icon:hover .row-icon-text {
+  color: #119ee6;
+}
+body.color-light-blue .contact-box [class*='icon-'] {
+  color: #119ee6;
+}
+body.color-light-blue .box-number-icon span {
+  background: #119ee6;
+}
+body.color-light-blue .box-number:hover .box-number-text {
+  color: #119ee6;
+}
+body.color-light-blue .row-number-icon span {
+  background-color: #119ee6;
+}
+@media (min-width: 768px) {
+  body.color-light-blue .hexagon-box {
+    border-left: solid 2px #119ee6;
+    border-right: solid 2px #119ee6;
+  }
+  body.color-light-blue .hexagon-box:before {
+    border-top: solid 2px #119ee6;
+    border-right: solid 2px #119ee6;
+  }
+  body.color-light-blue .hexagon-box:after {
+    border-bottom: solid 2px #119ee6;
+    border-left: solid 2px #119ee6;
+  }
+}
+body.color-light-blue .hexagon-icon i {
+  border: 4px solid #119ee6;
+}
+@media (min-width: 768px) {
+  body.color-light-blue .hexagon-icon:hover i {
+    background: #119ee6;
+  }
+}
+@media (max-width: 767px) {
+  body.color-light-blue .hexagon-icon:after {
+    background-color: #119ee6;
+  }
+}
+body.color-light-blue .column-filters .side-block > h3:before {
+  background-color: #119ee6;
+}
+body.color-light-blue .noUi-horizontal .noUi-handle {
+  background: #119ee6;
+}
+body.color-light-blue .noUi-connect {
+  background: #119ee6;
+}
+body.color-light-blue .rating i {
+  color: #119ee6;
+}
+body.color-light-blue .simple-pagination a.active {
+  color: #119ee6;
+}
+body.color-light-blue .header-cart .badge {
+  background-color: #119ee6;
+}
+body.color-light-blue .header-cart:hover a.icon,
+body.color-light-blue .header-cart.opened a.icon {
+  color: #119ee6;
+}
+body.color-light-blue .header-cart-dropdown {
+  border-top: 4px solid #119ee6;
+}
+body.color-light-blue .nav-tabs > li.active > a,
+body.color-light-blue .nav-tabs > li > a:hover {
+  color: #119ee6 !important;
+}
+body.color-light-blue .nav-tabs > li > a::after {
+  background: #119ee6;
+}
+body.color-light-blue .tab-nav > li > a::after {
+  background: #119ee6 none repeat scroll 0% 0%;
+}
+body.color-light-blue .nav-pills > li.active > a,
+body.color-light-blue .nav-pills > li.active > a:focus,
+body.color-light-blue .nav-pills > li.active > a:hover {
+  background: #119ee6;
+  border-color: #119ee6;
+}
+body.color-light-blue .slick-prev:hover:before,
+body.color-light-blue .slick-next:hover:before {
+  color: #119ee6;
+}
+body.color-light-blue .slick-dots li.slick-active button,
+body.color-light-blue .slick-dots li.slick-active button:hover {
+  background: #119ee6;
+}

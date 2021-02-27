@@ -1,0 +1,39 @@
+
+/*VIEW ALL COMMENT*/
+
+.approved{
+
+color: green;
+}    
+
+.unapproved{
+
+color: red;
+}    
+
+.author:hover{
+
+color:orange;
+}    
+
+#table{
+box-shadow: 1px 1px 25px orange;
+}
+
+
+#back{
+background-color:darkorange;
+color: white;
+}  
+
+
+
+/*VIEW_ALL_POSTS*/
+#heading_color{
+    color: white;
+    background-color: coral;
+}
+
+
+
+ 
